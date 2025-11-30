@@ -1,0 +1,1 @@
+A repository for my blockchain Move practices sponsored by Sui, featuring well-structured experiments, smart-contract prototypes, and practical explorations of the Sui ecosystem. This space serves as a learning ground where I refine concepts, test new ideas, and build a solid foundation in Move development.
